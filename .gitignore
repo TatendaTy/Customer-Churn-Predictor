@@ -1,0 +1,6 @@
+# ignore 
+.ipynb_checkpoints
+.vscode
+
+churn_prediction.ipynb
+instructions.txt
